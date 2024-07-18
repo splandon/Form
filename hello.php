@@ -65,7 +65,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <body>
         <h2>Client Information Form</h2>
         <p>$feedback</p>
-        <a href='index.php'>Go back to the form</a>
+        <a href='index.html'>Go back to the form</a>
     </body>
     </html>";
 }
